@@ -1,5 +1,5 @@
 ## ¡Hola, soy Jose Carlos!
-Actualmente estudiante de tercer año de la Universidad Privada de Santa Cruz de la Sierra, en la carrera de Ingeniería de Sistemas.
+Actualmente estudiante de cuarto año de la Universidad Privada de Santa Cruz de la Sierra, en la carrera de Ingeniería de Sistemas.
 
 ## Un poco sobre mi
 Me llamo Jose Carlos Gutiérrez, soy un apasionado por la programación y por los deportes.
